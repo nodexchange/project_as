@@ -18,15 +18,13 @@
   scroll-behavior: smooth;
 }
 
+/* a640ad fc9d7a dc3754 3588c4*/
+
 .text-gradient {
-  background: radial-gradient(
-    64.18% 64.18% at 71.16% 35.69%,
-    #def9fa 0.89%,
-    #bef3f5 17.23%,
-    #9dedf0 42.04%,
-    #7de7eb 55.12%,
-    #5ce1e6 71.54%,
-    #33bbcf 100%
+  background: linear-gradient(
+    79.81deg,
+    #4a96cd 0%,
+    #83aecd 90.29%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -36,6 +34,14 @@
 
 .bg-blue-gradient {
   background: linear-gradient(
+    79.81deg,
+    #bb84bf 12.19%,
+    #b86b79 90.29%
+  );
+}
+
+/* .bg-blue-gradient {
+  background: linear-gradient(
     157.81deg,
     #def9fa -43.27%,
     #bef3f5 -21.24%,
@@ -44,7 +50,7 @@
     #5ce1e6 51.94%,
     #33bbcf 90.29%
   );
-}
+} */
 
 .bg-black-gradient {
   background: linear-gradient(
