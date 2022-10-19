@@ -2,6 +2,7 @@ import airbnb from "./airbnb.png";
 import bill from "./bill.png";
 import binance from "./binance.png";
 import card from "./card.png";
+import computer from "./computer.jpg";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
 import logo from "./logo.jpg";
@@ -30,6 +31,7 @@ export {
   binance,
   card,
   coinbase,
+  computer,
   dropbox,
   logo,
   quotes,

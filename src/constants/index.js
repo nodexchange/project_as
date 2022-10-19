@@ -47,6 +47,7 @@ export const features = [
   },
 ];
 
+
 export const feedback = [
   {
     id: "feedback-1",
@@ -70,6 +71,33 @@ export const feedback = [
       "It is usually people in the money business, finance, and international trade that are really rich.",
     name: "Kenn Gallagher",
     title: "Founder & Leader",
+    img: people03,
+  },
+];
+
+export const services = [
+  {
+    id: "services-1",
+    content:
+      "Blogging, E-newsletters, Social Media Management, Brand Management, Audience Growth, Copywriting, Marketing Strategy",
+    name: "Digital Marketing",
+    title: "",
+    img: people01,
+  },
+  {
+    id: "services-2",
+    content:
+      "Search Engine Optimisation (SEO), fresh content and support your website’s promotion through digital marketing",
+    name: "Website Management",
+    title: "",
+    img: people02,
+  },
+  {
+    id: "services-3",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Logo Design, Branding, Web Design, Photography, Brochure, Flyers, and Guide Design",
+    title: "",
     img: people03,
   },
 ];
